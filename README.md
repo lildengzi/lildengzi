@@ -7,21 +7,16 @@
 ## 🛠️ 技术栈
 
 **熟练掌握：**
-- C / C++ / Python
-- Linux 命令行工具
-- Git / GitHub
+C / C++ / Python / Linux 命令行工具 / Git工具
 
 **了解 / 使用过：**
-- Java / Go
-- Spring Boot / MyBatis
-- MySQL / MQTT
-- FPGA 基础开发
+Java / Go / Spring Boot / MyBatis / MySQL / MQTT / FPGA 基础开发
 
 ---
 
 ## 📌 个人项目
 
-### 1. 基于 AI 大模型的集成电路故障诊断系统 🔧 [GitHub](https://github.com/lildengzi/aiops-rca)
+### 1. [基于 AI 大模型的集成电路故障诊断系统](https://github.com/lildengzi/aiops-rca) 🔧
 
 > 全栈 · 多智能体协作 · LangChain
 
@@ -43,7 +38,7 @@
 
 ---
 
-### 3. 学校食堂点评系统 🍽️ [GitHub](https://github.com/lildengzi/xdudianping)
+### 3. [学校食堂点评系统](https://github.com/lildengzi/xdudianping) 🍽️
 
 > 测试负责人 · 文档作者 · Spring Boot + MyBatis
 
@@ -79,12 +74,5 @@
 
 ---
 
-## 📊 GitHub 统计
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lildengzi&layout=compact&theme=radical)
-
----
 
 > ✨ 持续学习中，欢迎交流与合作！
