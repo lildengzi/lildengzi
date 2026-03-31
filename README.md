@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 欢迎来到我的 GitHub！
 
-<!--
-**lildengzi/lildengzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是 **lildengzi**，一名计算机科学与技术专业的本科毕业生。热爱技术，喜欢折腾嵌入式、后端开发和 AI 应用，善于从 0 到 1 搭建项目并沉淀可复用的经验。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技术栈
+
+**熟练掌握：**
+- C / C++ / Python
+- Linux 命令行工具
+- Git / GitHub
+
+**了解 / 使用过：**
+- Java / Go
+- Spring Boot / MyBatis
+- MySQL / MQTT
+- FPGA 基础开发
+
+---
+
+## 📌 个人项目
+
+### 1. 基于 AI 大模型的集成电路故障诊断系统 🔧 [GitHub](https://github.com/lildengzi/aiops-rca)
+
+> 全栈 · 多智能体协作 · LangChain
+
+- 构建多智能体协作系统，实现自动故障根因分析，提升问题定位效率
+- 采用 LangChain 框架设计 ReAct 推理-行动工作流，动态拆解故障并迭代收敛根因
+- 生成结构化分析报告，强化自动化测试缺陷分析能力
+- 开发逻辑算法分割方法，熟练运用 zscore、滑动窗口、相关性计算等算法
+
+---
+
+### 2. 基于树莓派和阿里云的远程温湿度控制系统 🌡️
+
+> 项目管理 · 测试 · MQTT · 物联网
+
+- 定义可靠性 ≥99.9%、命令延迟 ≤5s 等关键指标，主导测试方案设计
+- 设计功能/性能测试用例，使用 MQTTX 等工具定位解决 MQTT 鉴权、主题匹配缺陷
+- 完成 72 小时连续运行测试，上报成功率 99.95%，命令延迟平均 1.2s，确保系统达标
+- 沉淀 MQTT 接入调试经验，输出可复用测试方法
+
+---
+
+### 3. 学校食堂点评系统 🍽️ [GitHub](https://github.com/lildengzi/xdudianping)
+
+> 测试负责人 · 文档作者 · Spring Boot + MyBatis
+
+- **后端开发**：熟悉 Spring Boot + MyBatis 架构，参与代码优化，提出接口参数验证、数据库查询改进建议
+- **软件测试**：主导全流程测试，编写 20+ 用例，使用 JMeter 完成 100 并发压测（首页 1.5s / 评论 2.8s / 搜索 0.8s）
+- **质量保障**：定位并推动修复 10+ 缺陷，测试覆盖率达代码 85% / 功能 90% / 接口 95%
+- **工程管理**：独立完成 4 份核心文档，梳理 10+ 功能模块及 8 张数据表逻辑
+
+---
+
+### 4. 其他课程 / 实验项目
+
+| 项目名称 | 简介 |
+|--------|------|
+| 📚 图书管理系统 | 本地开发，实现图书增删改查与用户借还管理 |
+| 💡 FPGA 流水灯设计 | 基于 FPGA 的流水灯控制，学习硬件描述语言与开发流程 |
+| 🌐 H3B 网络工程管理 | 设计企业级组网方案，模拟网络拓扑与路由配置 |
+| 🏫 西电食堂评价系统 | 校内实践项目，用户点评与评分功能实现 |
+
+---
+
+## 🏆 校园经历
+
+- **文体委员**：组织班级文体活动，协调赛事与日常事务
+- **计算机科学与技术学院宣传部 新媒体运营专员**：负责公众号运营、活动宣传与图文编辑，提升学院影响力
+
+---
+
+## 📫 联系我
+
+- 📧 邮箱：2580862656@qq.com
+- 💻 GitHub：[lildengzi](https://github.com/lildengzi)
+
+---
+
+## 📊 GitHub 统计
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lildengzi&layout=compact&theme=radical)
+
+---
+
+> ✨ 持续学习中，欢迎交流与合作！
