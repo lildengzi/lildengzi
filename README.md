@@ -70,7 +70,6 @@ Java / Go / Spring Boot / MyBatis / MySQL / MQTT / FPGA 基础开发
 ## 📫 联系我
 
 - 📧 邮箱：2580862656@qq.com
-- 💻 GitHub：[lildengzi](https://github.com/lildengzi)
 
 ---
 
