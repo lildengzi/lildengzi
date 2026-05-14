@@ -1,70 +1,94 @@
-# 👋 欢迎来到我的 GitHub！
+<div align="center">
 
-你好，我是 **lildengzi**，一名计算机科学与技术专业的本科生。热爱技术，喜欢折腾嵌入式、后端开发和 AI 应用，善于从 0 到 1 搭建项目并沉淀可复用的经验。
+  # Hi there, I'm lildengzi 👋
+  # 你好，我是 lildengzi
 
----
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Application+Explorer;Embedded+Systems+Learner;Backend+Development+Enthusiast;Keep+Learning%2C+Keep+Building" />
 
-## 🛠️ 技术栈
+  </div>
 
-**熟练掌握：**
-C / C++ / Python / Linux 命令行工具 / Git工具
+  ---
 
-**了解 / 使用过：**
-Java / Go / Spring Boot / MyBatis / MySQL / MQTT / FPGA 基础开发
+  ## About Me / 关于我
 
----
+  我是 **lildengzi**，一名计算机科学与技术专业本科生。
+  我关注 **AI 应用、嵌入式系统、后端开发、软件测试与工程实践**，喜欢从 0 到 1 搭建项目，并沉淀可复用的经验。
 
-## 📌 个人项目
+  I'm **lildengzi**, a Computer Science undergraduate.
+  I focus on **AI applications, embedded systems, backend development, software testing, and engineering practice**.
+  I enjoy building projects from scratch and turning ideas into reliable systems.
 
-### 1. [基于 AI 大模型的集成电路故障诊断系统](https://github.com/lildengzi/aiops-rca) 🔧
+  ---
 
-> 全栈 · 多智能体协作 · LangChain
+  ## Tech Stack / 技术栈
 
-- 构建多智能体协作系统，实现自动故障根因分析，提升问题定位效率
-- 采用 LangChain 框架设计 ReAct 推理-行动工作流，动态拆解故障并迭代收敛根因
-- 生成结构化分析报告，强化自动化测试缺陷分析能力
-- 开发逻辑算法分割方法，熟练运用 zscore、滑动窗口、相关性计算等算法
+  <div align="center">
 
----
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 2. 基于树莓派和阿里云的远程温湿度控制系统 🌡️
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-> 项目管理 · 测试 · MQTT · 物联网
+  </div>
 
-- 定义可靠性 ≥99.9%、命令延迟 ≤5s 等关键指标，主导测试方案设计
-- 设计功能/性能测试用例，使用 MQTTX 等工具定位解决 MQTT 鉴权、主题匹配缺陷
-- 完成 72 小时连续运行测试，上报成功率 99.95%，命令延迟平均 1.2s，确保系统达标
-- 沉淀 MQTT 接入调试经验，输出可复用测试方法
+  ---
 
----
+  ## Focus Areas / 关注方向
 
-### 3. [学校食堂点评系统](https://github.com/lildengzi/xdudianping) 🍽️
+  ```text
+  AI Applications        █████████░░
+  Embedded Systems      ████████░░░
+  Backend Development   ████████░░░
+  Software Testing      ███████░░░░
+  FPGA Basics           █████░░░░░░
+  Network Engineering   █████░░░░░░
 
-> 测试负责人 · 文档作者 · Spring Boot + MyBatis
+  - AI-powered applications & multi-agent systems
+    AI 大模型应用与多智能体系统
+  - Embedded systems & IoT development
+    嵌入式系统与物联网开发
+  - Backend development & API design
+    后端开发与接口设计
+  - Software testing & quality assurance
+    软件测试与质量保障
 
-- **后端开发**：熟悉 Spring Boot + MyBatis 架构，参与代码优化，提出接口参数验证、数据库查询改进建议
-- **软件测试**：主导全流程测试，编写 20+ 用例，使用 JMeter 完成 100 并发压测（首页 1.5s / 评论 2.8s / 搜索 0.8s）
-- **质量保障**：定位并推动修复 10+ 缺陷，测试覆盖率达代码 85% / 功能 90% / 接口 95%
-- **工程管理**：独立完成 4 份核心文档，梳理 10+ 功能模块及 8 张数据表逻辑
+  ———
 
----
+  ## GitHub Stats / 数据统计
+  <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lildengzi&layout=compact&theme=tokyonight&hide_border=true" />
+  </div>
 
-### 4. 其他课程 / 实验项目
+  ———
 
-| 项目名称 | 简介 |
-|--------|------|
-| 📚 图书管理系统 | 本地开发，实现图书增删改查与用户借还管理 |
-| 💡 FPGA 流水灯设计 | 基于 FPGA 的流水灯控制，学习硬件描述语言与开发流程 |
-| 🌐 H3B 网络工程管理 | 设计企业级组网方案，模拟网络拓扑与路由配置 |
-| 🏫 高校食堂评价系统 | 校内实践项目，用户点评与评分功能实现 |
+  ## Activity / 活跃度
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=tokyo-night&hide_border=true" />
+  </div>
 
---- 
+  ———
 
-## 📫 联系我
+  ## Contact / 联系我
+  <div align="center">
 
-- 📧 邮箱：2580862656@qq.com
+  Email (mailto:2580862656@qq.com)
+  Profile Views
+  </div>
 
----
+  ———
+  <div align="center">
 
+  ### Keep learning. Keep building. Keep shipping.
 
-> ✨ 持续学习中，欢迎交流与合作！
+  ### 持续学习，持续实践，持续交付。
+  </div>
+  ```
