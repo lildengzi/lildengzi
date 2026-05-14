@@ -1,5 +1,4 @@
 # Hi, I'm lildengzi
-# 你好，我是 lildengzi
 
 <div align="center">
 
