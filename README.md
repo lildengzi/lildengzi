@@ -1,4 +1,5 @@
 # Hi, I'm lildengzi
+# 你好，我是 lildengzi
 
 <div align="center">
 
@@ -38,12 +39,32 @@ I'm **lildengzi**, a Computer Science undergraduate who enjoys building practica
 
 ## Focus Areas / 关注方向
 
-```text
-AI Applications       ████████░░
-Cloud Services        ████████░░
-C++                   ███████░░░
-Game Development      ████░░░░░░
-```
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI Applications</h3>
+      <p>Building practical AI-powered tools and exploring how large models can be connected with real workflows.</p>
+      <p><strong>人工智能应用</strong>：探索大模型能力与真实业务流程结合，构建可落地的 AI 工具。</p>
+    </td>
+    <td width="50%">
+      <h3>Cloud Service Development</h3>
+      <p>Learning backend services, WebSocket communication, database design, container deployment, and cloud delivery.</p>
+      <p><strong>云服务开发</strong>：学习后端服务、WebSocket 通信、数据库设计、容器化部署与云端交付。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>C++</h3>
+      <p>Strengthening programming fundamentals, performance awareness, and lower-level system understanding.</p>
+      <p><strong>C++</strong>：夯实编程基础、性能意识和偏底层的系统理解能力。</p>
+    </td>
+    <td width="50%">
+      <h3>Game Development</h3>
+      <p>Currently in the planning stage, focusing on gameplay ideas, technical direction, and project structure.</p>
+      <p><strong>游戏开发</strong>：目前处于策划阶段，重点思考玩法创意、技术路线和项目结构。</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
