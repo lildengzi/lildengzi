@@ -1,94 +1,79 @@
+# Hi, I'm lildengzi
+# 你好，我是 lildengzi
+
 <div align="center">
 
-  # Hi there, I'm lildengzi 👋
-  # 你好，我是 lildengzi
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+%2F+Cloud+Service+Learner;AI+Application+Explorer;Embedded+Systems+Enthusiast;Build+from+0+to+1" />
 
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Application+Explorer;Embedded+Systems+Learner;Backend+Development+Enthusiast;Keep+Learning%2C+Keep+Building" />
+![Profile Views](https://komarev.com/ghpvc/?username=lildengzi&style=for-the-badge&color=0E75B6)
+[![Email](https://img.shields.io/badge/Email-2580862656%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2580862656@qq.com)
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## About Me / 关于我
+## About Me / 关于我
 
-  我是 **lildengzi**，一名计算机科学与技术专业本科生。
-  我关注 **AI 应用、嵌入式系统、后端开发、软件测试与工程实践**，喜欢从 0 到 1 搭建项目，并沉淀可复用的经验。
+I'm **lildengzi**, a Computer Science undergraduate who enjoys building practical systems from scratch. I am currently exploring **AI applications**, **cloud service development**, **C++**, and **game development**. I care about turning ideas into usable projects, understanding how systems work end to end, and recording reusable engineering experience along the way.
 
-  I'm **lildengzi**, a Computer Science undergraduate.
-  I focus on **AI applications, embedded systems, backend development, software testing, and engineering practice**.
-  I enjoy building projects from scratch and turning ideas into reliable systems.
+我是 **lildengzi**，计算机科学与技术专业本科生，喜欢从 0 到 1 搭建真实可用的项目。目前主要关注 **人工智能应用**、**云服务开发**、**C++** 和 **游戏开发**。我重视把想法落地成系统，理解项目从开发到部署的完整链路，并在实践中沉淀可复用的工程经验。
 
-  ---
+---
 
-  ## Tech Stack / 技术栈
+## Tech Stack / 技术栈
 
-  <div align="center">
+<div align="center">
 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,postgres,redis,docker,nginx,linux,kubernetes&perline=5" />
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+</div>
 
-  </div>
+| Area / 方向 | Stack / 技术 |
+| --- | --- |
+| Languages / 编程语言 | `C` `C++` `Python` `Go` |
+| Backend / 后端 | `Go` `WebSocket` `PostgreSQL` `Redis` |
+| Infrastructure / 基础设施 | `Docker` `Nginx` `Linux` `K3s / Kubernetes` |
+| Exploring / 持续探索 | `AI Applications` `Cloud Services` `Game Development` |
 
-  ---
+---
 
-  ## Focus Areas / 关注方向
+## Focus Areas / 关注方向
 
-  ```text
-  AI Applications        █████████░░
-  Embedded Systems      ████████░░░
-  Backend Development   ████████░░░
-  Software Testing      ███████░░░░
-  FPGA Basics           █████░░░░░░
-  Network Engineering   █████░░░░░░
+```text
+AI Applications       ████████░░
+Cloud Services        ████████░░
+C++                   ███████░░░
+Game Development      ████░░░░░░
+```
 
-  - AI-powered applications & multi-agent systems
-    AI 大模型应用与多智能体系统
-  - Embedded systems & IoT development
-    嵌入式系统与物联网开发
-  - Backend development & API design
-    后端开发与接口设计
-  - Software testing & quality assurance
-    软件测试与质量保障
+---
 
-  ———
+## GitHub Stats / 数据统计
 
-  ## GitHub Stats / 数据统计
-  <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lildengzi&layout=compact&theme=tokyonight&hide_border=true" />
-  </div>
+<div align="center">
 
-  ———
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lildengzi&theme=tokyonight" />
 
-  ## Activity / 活跃度
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=tokyo-night&hide_border=true" />
-  </div>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lildengzi&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lildengzi&theme=tokyonight" />
 
-  ———
+</div>
 
-  ## Contact / 联系我
-  <div align="center">
+---
 
-  Email (mailto:2580862656@qq.com)
-  Profile Views
-  </div>
+## Activity / 活跃度
 
-  ———
-  <div align="center">
+<div align="center">
 
-  ### Keep learning. Keep building. Keep shipping.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=tokyo-night&hide_border=true" />
 
-  ### 持续学习，持续实践，持续交付。
-  </div>
-  ```
+</div>
+
+---
+
+<div align="center">
+
+### Keep learning. Keep building. Keep shipping.
+### 持续学习，持续实践，持续交付。
+
+</div>
