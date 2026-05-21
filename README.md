@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+%2F+Cloud+Service+Learner;AI+Application+Explorer;Embedded+Systems+Enthusiast;Build+from+0+to+1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=720&lines=Computer+Science+Undergraduate;Backend+%2F+Cloud+Service+Learner;AI+Application+Explorer;C%2B%2B+Learner;Keep+Learning+and+Building" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lildengzi&style=for-the-badge&color=0E75B6)
 [![Email](https://img.shields.io/badge/Email-2580862656%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2580862656@qq.com)
@@ -13,9 +13,11 @@
 
 ## About Me / 关于我
 
-I'm **lildengzi**, a Computer Science undergraduate who enjoys building practical systems from scratch. I am currently exploring **AI applications**, **cloud service development**, **C++**, and **game development**. I care about turning ideas into usable projects, understanding how systems work end to end, and recording reusable engineering experience along the way.
+我是 **lildengzi**
 
-我是 **lildengzi**，计算机科学与技术专业本科生，喜欢从 0 到 1 搭建真实可用的项目。目前主要关注 **人工智能应用**、**云服务开发**、**C++** 和 **游戏开发**。我重视把想法落地成系统，理解项目从开发到部署的完整链路，并在实践中沉淀可复用的工程经验。
+目前主要在学习和实践 **后端开发**、**C/C++**、**Python / Go**、**Linux**、**数据库**、**Docker** 以及一些 **AI 应用方向** 的内容。相比于把自己包装得很厉害，我更希望这里记录的是自己持续学习、动手做项目和慢慢积累经验的过程。
+
+I am lildengzi, still learning and building small practical projects. My current focus is backend development, C/C++, Python / Go, Linux, databases, Docker, and basic AI application exploration.
 
 ---
 
@@ -23,44 +25,44 @@ I'm **lildengzi**, a Computer Science undergraduate who enjoys building practica
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,postgres,redis,docker,nginx,linux,kubernetes&perline=5" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,go,mysql,redis,docker,linux&perline=10" />
 
 </div>
 
-| Area / 方向 | Stack / 技术 |
-| --- | --- |
-| Languages / 编程语言 | `C` `C++` `Python` `Go` |
-| Backend / 后端 | `Go` `WebSocket` `PostgreSQL` `Redis` |
-| Infrastructure / 基础设施 | `Docker` `Nginx` `Linux` `K3s / Kubernetes` |
-| Exploring / 持续探索 | `AI Applications` `Cloud Services` `Game Development` |
+| Area / 方向          | Stack / 技术                                                |
+| -------------------- | ----------------------------------------------------------- |
+| Languages / 编程语言 | `C` `C++` `Python` `Go`                             |
+| Backend / 后端学习   | `Go` `WebSocket` `PostgreSQL` `Redis`               |
+| Tools / 常用工具     | `Docker` `Nginx` `Linux`                              |
+| Exploring / 正在探索 | `AI Applications` `Cloud Services` `Game Development` |
 
 ---
 
-## Focus Areas / 关注方向
+## What I'm Learning / 正在学习
 
 <table>
   <tr>
     <td width="50%">
-      <h3>AI Applications</h3>
-      <p>Building practical AI-powered tools and exploring how large models can be connected with real workflows.</p>
-      <p><strong>人工智能应用</strong>：探索大模型能力与真实业务流程结合，构建可落地的 AI 工具。</p>
+      <h3>Backend Development</h3>
+      <p>Learning how to build basic services, design simple APIs, use databases, and deploy projects with containers.</p>
+      <p><strong>后端开发</strong>：学习接口设计、服务开发、数据库使用、缓存和简单部署。</p>
     </td>
     <td width="50%">
-      <h3>Cloud Service Development</h3>
-      <p>Learning backend services, WebSocket communication, database design, container deployment, and cloud delivery.</p>
-      <p><strong>云服务开发</strong>：学习后端服务、WebSocket 通信、数据库设计、容器化部署与云端交付。</p>
+      <h3>C / C++</h3>
+      <p>Strengthening programming fundamentals, data structures, memory understanding, and problem-solving skills.</p>
+      <p><strong>C / C++</strong>：打基础，练数据结构、内存理解和代码能力。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>C++</h3>
-      <p>Strengthening programming fundamentals, performance awareness, and lower-level system understanding.</p>
-      <p><strong>C++</strong>：夯实编程基础、性能意识和偏底层的系统理解能力。</p>
+      <h3>AI Applications</h3>
+      <p>Trying to understand how large models can be used in small tools and practical workflows.</p>
+      <p><strong>AI 应用</strong>：尝试把大模型能力接入到一些小工具和实际场景中。</p>
     </td>
     <td width="50%">
-      <h3>Game Development</h3>
-      <p>Currently in the planning stage, focusing on gameplay ideas, technical direction, and project structure.</p>
-      <p><strong>游戏开发</strong>：目前处于策划阶段，重点思考玩法创意、技术路线和项目结构。</p>
+      <h3>Projects</h3>
+      <p>Building small projects to turn what I learn into something visible and usable.</p>
+      <p><strong>项目实践</strong>：通过小项目把学到的内容落地，慢慢补齐工程经验。</p>
     </td>
   </tr>
 </table>
@@ -92,7 +94,8 @@ I'm **lildengzi**, a Computer Science undergraduate who enjoys building practica
 
 <div align="center">
 
-### Keep learning. Keep building. Keep shipping.
-### 持续学习，持续实践，持续交付。
+### Keep learning. Keep building.
+
+### 持续学习，持续实践。
 
 </div>
