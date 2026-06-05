@@ -25,9 +25,10 @@ I am lildengzi, still learning and building small practical projects. My current
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,mysql,redis,docker,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,qt,python,go,mysql,redis,docker,linux&perline=10" />
 
 </div>
+
 
 | Area / 方向          | Stack / 技术                                                |
 | -------------------- | ----------------------------------------------------------- |
