@@ -2,8 +2,10 @@
 
 <div align="center">
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flildengzi&label=VISITORS&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flildengzi)
-[![Email](https://img.shields.io/badge/Email-2580862656%40qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2580862656@qq.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=720&lines=Backend+%2F+Cloud+Service+Learner;AI+Application+Explorer;C%2B%2B+%2F+Rust+Learner;Keep+Learning+and+Building" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=lildengzi&style=for-the-badge&color=0E75B6)
+[![Email](https://img.shields.io/badge/Email-2580862656%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2580862656@qq.com)
 
 </div>
 
@@ -11,11 +13,12 @@
 
 ## About Me / 关于我
 
-I'm **lildengzi** — a CS student who enjoys building things.
+(｀・ω・´) 这里是 **lildengzi** 的说！
 
-Currently exploring **backend development**, **C/C++**, **Rust**, **Python / Go**, **Linux**, and a bit of **AI application stuff**. This profile is a record of learning, not a showcase of expertise.
+目前在学习后端开发、C/C++、Rust、Python/Go、Linux 和一些 AI 应用相关的东西。
+喜欢折腾代码，也在慢慢做一些小项目积累经验。
 
-一个在学后端、C/C++、Rust、Python/Go、Linux 和 AI 应用的学生。这里记录的是学习过程，不是装逼简历。
+よろしくお願いします～ 喵！
 
 ---
 
@@ -23,32 +26,16 @@ Currently exploring **backend development**, **C/C++**, **Rust**, **Python / Go*
 
 <div align="center">
 
-### Languages
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### Tools & Platforms
-
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,qt,mysql,redis,postgres,docker,nginx,linux,neovim&perline=13" />
 
 </div>
 
-| Area / 方向 | Stack / 技术 |
-|---|---|
-| **Languages / 编程语言** | C, C++, Rust, Python, Go |
-| **Backend / 后端** | Go, WebSocket, PostgreSQL, Redis |
-| **Tools / 常用工具** | Neovim, Docker, Nginx, Linux |
-| **Exploring / 正在探索** | AI Applications, Cloud Services, Game Development |
+| Area / 方向          | Stack / 技术                                                |
+| -------------------- | ----------------------------------------------------------- |
+| Languages / 编程语言 | `C` `C++` `Rust` `Python` `Go`                             |
+| Backend / 后端学习   | `Go` `WebSocket` `PostgreSQL` `Redis`                      |
+| Tools / 常用工具     | `Neovim` `Docker` `Nginx` `Linux`                          |
+| Exploring / 正在探索 | `AI Applications` `Cloud Services` `Game Development`      |
 
 ---
 
@@ -87,18 +74,8 @@ Currently exploring **backend development**, **C/C++**, **Rust**, **Python / Go*
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lildengzi&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lildengzi&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lildengzi&theme=tokyonight)
-
-</div>
-
----
-
-## Activity / 活跃度
-
-<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs?username=lildengzi&layout=donut&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=tokyo-night&hide_border=true)
 
