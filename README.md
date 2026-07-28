@@ -15,8 +15,8 @@
 
 (｀・ω・´) This is **lildengzi**!
 
-目前在学习后端开发、C/C++、Rust、Python/Go、Linux 和一些 AI 应用相关内容。
-喜欢折腾代码，也在慢慢做一些小项目积累经验。
+在学习后端开发喵、C/C++、Rust、Python/Go、Linux 和一些 AI 应用相关内容喵。
+喜欢折腾代码，也在慢慢做一些小项目积累经验喵。
 
 Currently learning backend development, C/C++, Rust, Python/Go, Linux, and some AI application-related topics.
 
