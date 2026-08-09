@@ -32,23 +32,14 @@ I enjoy tinkering with code and am gradually building experience through small p
 
 </div>
 
-| Area / 方向          | Stack / 技术                                                |
-| -------------------- | ----------------------------------------------------------- |
-| Languages / 编程语言 | `C` `C++` `Rust` `Python` `Go`                             |
-| Backend / 后端学习   | `Go` `WebSocket` `PostgreSQL` `Redis`                      |
-| Tools / 常用工具     | `Neovim` `Docker` `Nginx` `Linux`                          |
-| Exploring / 正在探索 | `AI Applications` `Cloud Services` `Game Development`      |
-
-
-
 ## GitHub Stats / 数据统计
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=lildengzi&layout=donut&theme=catppuccin_mocha&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=lildengzi&layout=donut&theme=catppuccin_macchiato&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=catppuccin_macchiato&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=catppuccin_mocha&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=catppuccin_macchiato&hide_border=true)
 
 </div>
 
