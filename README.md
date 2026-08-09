@@ -49,7 +49,7 @@ I enjoy tinkering with code and am gradually building experience through small p
 
 <div align="center">
 
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lildengzi/lildengzi/output/github-contribution-grid-snake-catppuccin.svg" />
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lildengzi/lildengzi/output/github-contribution-grid-snake-macchiato.svg" />
 
 </div>
 
