@@ -28,7 +28,7 @@ I enjoy tinkering with code and am gradually building experience through small p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,qt,mysql,postgres,docker,linux,neovim,vim,vscode,github,git&perline=13" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,qt,mysql,postgres,docker,windows,linux,neovim,vim,vscode,github,git&perline=13" />
 
 </div>
 
@@ -36,20 +36,10 @@ I enjoy tinkering with code and am gradually building experience through small p
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=lildengzi&layout=donut&theme=catppuccin_macchiato&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=catppuccin_macchiato&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=lildengzi&layout=donut&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=lildengzi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=catppuccin_macchiato&hide_border=true)
-
-</div>
-
----
-
-## Snake / 提交墙
-
-<div align="center">
-
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lildengzi/lildengzi/output/github-contribution-grid-snake-macchiato.svg" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=lildengzi&theme=tokyo-night&hide_border=true)
 
 </div>
 
