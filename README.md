@@ -28,7 +28,7 @@ I enjoy tinkering with code and am gradually building experience through small p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,qt,mysql,postgres,docker,windows,linux,neovim,vim,vscode,github,git&perline=13" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,go,dart,qt,flutter,mysql,postgres,godot,docker,windows,linux,neovim,vim,vscode,github,git,githubactions&perline=13" />
 
 </div>
 
